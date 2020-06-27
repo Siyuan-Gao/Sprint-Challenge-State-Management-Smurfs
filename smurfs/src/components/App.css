@@ -1,3 +1,12 @@
+body {
+  height: 100vh;
+  background-image: url("../images/smurfs.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* Resize the background image to cover the entire*/
+}
+
 .App {
   text-align: center;
 }
